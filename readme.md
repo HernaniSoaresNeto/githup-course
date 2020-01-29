@@ -15,3 +15,5 @@ novo teste
 <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)] https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EN7GBVLC3YZ5S
+
